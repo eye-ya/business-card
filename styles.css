@@ -48,8 +48,8 @@ h3:hover{
     display: flex;
     justify-content: space-around;
     text-align: center;
-    color: #FFDAB9;
-    background:#98473E;
+    color: #75A5DD;
+    background:#DDAD75;
     -webkit-mask: var(--mask);
         mask: var(--mask);   
          --mask: 
